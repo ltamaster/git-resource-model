@@ -1,5 +1,5 @@
 <project>
 
-<node name="testgitrepot" hostname="192.168.0.13" username="luistoledo" osName="macOs" osFamily="MacOS" osType="X86-64/>
+<node name="testgitrepot" hostname="192.168.0.13" username="luistoledo" osName="macOs" osFamily="MacOS" osType="X86-64"/>
 
 </project>
