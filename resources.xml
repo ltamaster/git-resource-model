@@ -1,5 +1,5 @@
 <project>
 
-<node name="testgitrepot" hostname="localhost" username="luistoledo"/>
+<node name="testgitrepot" hostname="localhost" username="luistoledo" osName="macOs"/>
 
 </project>
