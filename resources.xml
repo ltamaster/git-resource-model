@@ -10,5 +10,8 @@
         <attribute name="custom:test2">This is a test</attribute>
     </node>
 
-
+<node name="testgitrepot3" hostname="192.168.0.13" username="luistoledo" osName="macOs" osFamily="MacOS" osType="X86-64">
+        <attribute name="custom:test">This is a test</attribute>
+        <attribute name="custom:test2">This is a test</attribute>
+    </node>
 </project>
