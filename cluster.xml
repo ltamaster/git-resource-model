@@ -1,4 +1,4 @@
 <project>
 
-
+<node name="cluster1" hostname="cluster1" description="Rundeck Server" osFamily="Linux" osVersion="Ubuntu" username="rundeck"/>
 </project>
